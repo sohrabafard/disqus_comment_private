@@ -915,7 +915,7 @@
     <ipAddress>66.249.73.191</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
-    <comment>-1</comment>
+    <comment>72</comment>
   </thread>
   <thread dsq:id="2345433955">
     <id/>
@@ -1618,7 +1618,7 @@
     <ipAddress>91.133.247.56</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
-    <comment>-1</comment>
+    <comment>76</comment>
   </thread>
   <thread dsq:id="2489840170">
     <id/>
@@ -1656,7 +1656,7 @@
     <ipAddress>37.63.192.19</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
-    <comment>-1</comment>
+    <comment>76</comment>
   </thread>
   <thread dsq:id="2525657228">
     <id/>
@@ -11708,6 +11708,7 @@
     <ipAddress>79.127.123.243</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
+	<comment>19757974849505350</comment>
   </thread>
   <thread dsq:id="3594073234">
     <id/>
@@ -11956,7 +11957,6 @@
     <isDeleted>false</isDeleted>
     <comment>79</comment>
   </thread>
-  <thread dsq:id="3684433762">
     <id>289 http://sharif.sanatisharif.ir/?p=289</id>
     <forum>sanatisharif</forum>
     <category dsq:id="2822236"/>
@@ -11991,6 +11991,7 @@
     <ipAddress>2.191.115.235</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
+	<comment>19757974849505350</comment>
   </thread>
   <thread dsq:id="3689668716">
     <id/>
@@ -13529,6 +13530,7 @@
     <ipAddress>188.211.123.168</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
+	<comment>9223372036854776000</comment>
   </thread>
   <thread dsq:id="3893740574">
     <id/>
@@ -14953,6 +14955,7 @@
     <ipAddress>2.186.10.63</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
+	<comment>9223372036854776000</comment>
   </thread>
   <thread dsq:id="4125371630">
     <id/>
@@ -15028,6 +15031,7 @@
     <ipAddress>65.49.68.204</ipAddress>
     <isClosed>false</isClosed>
     <isDeleted>false</isDeleted>
+	<comment>9223372036854776000</comment>
   </thread>
   <thread dsq:id="4306914428">
     <id/>
@@ -40746,7 +40750,6 @@
     <ipAddress>95.82.85.106</ipAddress>
     <thread dsq:id="3592160921"/>
   </post>
-  <post dsq:id="1934259280">
     <id/>
     <message>&lt;p&gt;سلام لطفا ادامه دفترچه برای نوروز یعنی از7 به بعد رو هم قرار بدید ممنون&lt;/p&gt;</message>
     <createdAt>2015-03-29T09:59:52Z</createdAt>
@@ -40921,7 +40924,6 @@
     <ipAddress>5.237.198.3</ipAddress>
     <thread dsq:id="3102871153"/>
   </post>
-  <post dsq:id="1939513579">
     <id/>
     <message>&lt;p&gt;سلام. برنامه از 7 تا 12 فروردین قرار نگرفت؟&lt;/p&gt;</message>
     <createdAt>2015-04-01T08:57:36Z</createdAt>
@@ -42455,20 +42457,6 @@
     </author>
     <ipAddress>178.157.15.87</ipAddress>
     <thread dsq:id="3684512379"/>
-  </post>
-  <post dsq:id="1970699497">
-    <id/>
-    <message>&lt;p&gt;سلام.&lt;br&gt;خیلی ممنون.&lt;br&gt;برنامه ی مطالعاتی قرار نمی گیره؟&lt;/p&gt;</message>
-    <createdAt>2015-04-16T14:22:37Z</createdAt>
-    <isDeleted>false</isDeleted>
-    <isSpam>false</isSpam>
-    <author>
-      <email>ahmad.mohamadzadeh@gmail.com</email>
-      <name>ahmad</name>
-      <isAnonymous>true</isAnonymous>
-    </author>
-    <ipAddress>2.191.192.2</ipAddress>
-    <thread dsq:id="3684433762"/>
   </post>
   <post dsq:id="1970843534">
     <id/>
